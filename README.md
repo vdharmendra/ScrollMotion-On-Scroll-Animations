@@ -27,7 +27,9 @@ ScrollMotion is a lightweight and customizable library that enables smooth on-sc
 <a href="https://www.behance.net/gallery/216613617/ScrollMotion-On-Scroll-Animations" target="_blank">
 <img style="width:350px;" src="./scrollMotionAnimations.gif" alt="" /></a>
 <br />
-
+<br/>
+<span>Cover </span>
+<br/>
 <a href="https://www.behance.net/gallery/216613617/ScrollMotion-On-Scroll-Animations" target="_blank">
 <img style="width:350px;" src="./cover.png" alt="" /></a>
 <br />
