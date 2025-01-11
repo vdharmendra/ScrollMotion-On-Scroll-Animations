@@ -4,6 +4,7 @@
 
 <a href="https://www.behance.net/dhirukumar" target="_blank">Behance Profile </a>
 
+## Overview
 ScrollMotion is a lightweight and customizable library that enables smooth on-scroll animations for your website. Enhance user experience with engaging animations that trigger as users scroll through the page, making your site feel more interactive and dynamic.
 
 
@@ -23,10 +24,13 @@ ScrollMotion is a lightweight and customizable library that enables smooth on-sc
 # Preview
 
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/216613617/ScrollMotion-On-Scroll-Animations" target="_blank">
 <img style="width:350px;" src="./scrollMotionAnimations.gif" alt="" /></a>
 <br />
 
+<a href="https://www.behance.net/gallery/216613617/ScrollMotion-On-Scroll-Animations" target="_blank">
+<img style="width:350px;" src="./cover.png" alt="" /></a>
+<br />
 ###### Lang
 <ul>
   <li>Graphic Design Software: Adobe Illustrator, Photoshop, Figma (for mockups)</li>
